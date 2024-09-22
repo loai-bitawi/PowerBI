@@ -1,7 +1,7 @@
 This is a sample project that enriches my portfolio and shows my skills in creating dashboards and a glance of the insights i can deliver.
 The dataset used in this project is a sample dataset from www.mavenanalytics.io. The dataset name is US Candy Distributer.
 The project contains three pages:
-1. Overview: executaive page that shows the sales trend, profits and evaluation of each factory, area, division, and product line.
+1. Overview: executive page that shows the sales trend, profits and evaluation of each factory, area, division, and product line.
 ![Overview Page](https://github.com/user-attachments/assets/a48ea08c-ae8f-4059-aca1-857dc9fe2458)
 
 2. 2024 Target: this page shows the target per division for 2024, and the ability to campare sales Year-to-year and Month-to-month. Also, shows the conrtibution of each area to the sales.
